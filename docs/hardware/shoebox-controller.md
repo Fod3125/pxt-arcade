@@ -43,7 +43,7 @@ Want to create your very own DIY Arcade Video Game experience with fun joysticks
 
 ![Testing joystick wiring](/static/hardware/shoebox-controller/testing-joystick1.jpg)
 
-* Attach the USB cable between the encoder board and your computer.
+* Attach the USB cable between the encoder board and your computer. You need usb
 * Open up a MakeCode Arcade game in the browser – i.e. https://makecode.com/_XsCCsy5L1eXr.
 * Use the Joystick to move the player around the screen and mark the correct directions on the Joystick.
 
